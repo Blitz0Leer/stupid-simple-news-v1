@@ -1,0 +1,1 @@
+# stupid-simple-news-v1
